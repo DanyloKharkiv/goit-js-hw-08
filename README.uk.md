@@ -46,7 +46,7 @@
 Pages, в ветку `gh-pages`, каждый раз когда обновляется ветка `main`. Например,
 после прямого пуша или принятого пул-реквеста. Для этого необходимо в файле
 `package.json` отредактировать поле `homepage` и скрипт `build`, заменив
-`your_username` и `your_repo_name` на свои, и отправить изменения на GitHub.
+`your_username` и `your_repo_name` на свои, и отправить изменения нa GitHub.
 
 ```json
 "homepage": "https://your_username.github.io/your_repo_name/",
