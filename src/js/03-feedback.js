@@ -1,5 +1,4 @@
-import Player from '@vimeo/player';
-import { throttle } from 'lodash.throttle';
+import  throttle  from 'lodash.throttle';
 
 const form = document.querySelector('form');
 const email = document.querySelector('[name="email"]');
